@@ -1,0 +1,2 @@
+# CSharpMegaprimes
+Find the Megaprimes
