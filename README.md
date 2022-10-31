@@ -3,6 +3,7 @@ Find the Megaprimes - Copyright 2022 Owen Maule <o@owen-m.com>
 Megaprimes are prime numbers where each digit is also a prime.
 Enter positive integer up to 4294967295 to find megaprimes up to and including that maximum.
 Options:
+
     simple - use Trial Division Simple for prime detection in scan
     div - use Trial Division Optimised for prime detection in scan
     wheel - use Wheel Factorisation for prime detection in scan (default)
@@ -14,6 +15,7 @@ Options:
     eagar - store the results in an array, then display them (default)
 
 Eagar modes:
+
     scan - use simple single-thread scan for megaprimes
     sieve - use Sieve of Eratosthenes scan for megaprimes
     par - use parallelised scan for megaprimes (default)
@@ -27,7 +29,9 @@ Eagar modes:
     bench - benchmark subroutines for 50000 runs
     benchlong - benchmark subroutines for 1000000 runs
     flip - reverse order of benchmark competitors
+
 Examples:
+
     9000 - scan over 9000, scouting megaprimes
     1000 2000 3000 - request multiple scans
     div 1000 2000 3000 - request multiple scans with Trial Division Optimised
