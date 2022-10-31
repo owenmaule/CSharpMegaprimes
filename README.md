@@ -1,7 +1,10 @@
 # CSharpMegaprimes
 Find the Megaprimes - Copyright 2022 Owen Maule <o@owen-m.com>
+
 Megaprimes are prime numbers where each digit is also a prime.
+
 Enter positive integer up to 4294967295 to find megaprimes up to and including that maximum.
+
 Options:
 
     simple - use Trial Division Simple for prime detection in scan
