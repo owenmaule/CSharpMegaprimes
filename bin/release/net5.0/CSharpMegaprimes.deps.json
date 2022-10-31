@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharpMegaprimes/1.0.0": {
+        "runtime": {
+          "CSharpMegaprimes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpMegaprimes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
